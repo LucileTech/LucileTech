@@ -9,12 +9,15 @@
 </div>
 
 <h1>
-  hey there
+  Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   
   
- ✨ _Hi_ ✨ 
 
 
 - 🔭 I’m currently working on ...
@@ -25,4 +28,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+✨ Thanks for your interest, do not hesitate to contact me ✨
