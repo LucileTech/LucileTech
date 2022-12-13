@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif" width="100"/>
@@ -7,8 +6,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=luciletech&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" width="30px"/>
+  </h1>
 </div>
+
 
  ✨ _Hi_ ✨ 
 
