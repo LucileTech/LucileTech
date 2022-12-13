@@ -8,9 +8,11 @@
   </div>
 </div>
 
-
+  <h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/Cg9oeBXqFayCq26ggf/giphy.gif" width="30px"/>
+  </h1>
  ✨ _Hi_ ✨ 
-
 
 
 - 🔭 I’m currently working on ...
