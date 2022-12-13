@@ -3,10 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/lucile-tronczyk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/lucile-tronczyk/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=luciletech&style=flat-square&color=blue" alt=""/>
 </div>
 
  ✨ _Hi_ ✨ 
