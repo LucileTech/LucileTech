@@ -1,4 +1,11 @@
 
+
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif" width="100"/>
   <div id="badges">
@@ -7,11 +14,6 @@
     </a>
   </div>
 </div>
-
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
