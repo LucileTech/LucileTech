@@ -6,10 +6,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <h1>
-  hey there
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" width="30px"/>
-  </h1>
 </div>
 
 
