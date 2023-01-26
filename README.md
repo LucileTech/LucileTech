@@ -34,6 +34,7 @@ I am a Full Stack :space_invader: Developer
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Mern" **alt="Mern"  height="50"/>
   <img src="https://res.cloudinary.com/dsioshcio/image/upload/v1670944889/MERN-logo_fx0noa.png" title="Mern" **alt="Mern"  height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
