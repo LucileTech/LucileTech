@@ -26,6 +26,10 @@ I am a Full Stack :space_invader: Developer
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-tronczyk/)
 
+- 
+
+- GitLab : <a href="https://gitlab.com/LucileTech"> 🎯 Gitlab </a>
+
 - :mushroom: Fun fact: I was a screenwriter and archives researcher for documentaries
 
 ---
