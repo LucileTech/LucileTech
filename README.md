@@ -12,6 +12,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  <div id="badges">
+    <a href="https://gitlab.com/LucileTech"> 🎯 Gitlab </a>
+   </div>
 </div>
 
 ---
@@ -25,10 +28,6 @@ I am a Full Stack :space_invader: Developer
 - :seedling: I did the Ironhack Web Development Bootcamp in Paris
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-tronczyk/)
-
-- 
-
-- GitLab : <a href="https://gitlab.com/LucileTech"> 🎯 Gitlab </a>
 
 - :mushroom: Fun fact: I was a screenwriter and archives researcher for documentaries
 
