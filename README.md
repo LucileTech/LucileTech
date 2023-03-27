@@ -7,12 +7,15 @@
 </h1>
 
 <div id="header" align="center">
-  <div id="badges">
+  <div id="linkedin">
     <a href="https://www.linkedin.com/in/lucile-tronczyk/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <div id="badges">
+    <div id="portfolio">
+    <a href="https://lucile-tech.com/"> MY PORTFOLIO </a>
+   </div>
+  <div id="gitlab">
     <a href="https://gitlab.com/LucileTech"> 🎯 Gitlab </a>
    </div>
 </div>
