@@ -11,7 +11,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <p align="center"> 🎯 </p>
    <div id="portfolio">
     <a href="https://lucile-tech.com/"> MY PORTFOLIO </a>
    </div>
