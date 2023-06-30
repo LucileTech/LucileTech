@@ -5,7 +5,6 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 <div id="header" align="center">
   <div id="linkedin">
     <a href="https://www.linkedin.com/in/lucile-tronczyk/">
@@ -17,9 +16,6 @@
     <a href="https://lucile-tech.com/"> MY PORTFOLIO </a>
    </div>
   <p align="center"> 🎯 </p>
-   <div id="gitlab">
-    <a href="https://gitlab.com/LucileTech">Gitlab </a>
-   </div>
 </div>
 
 ---
