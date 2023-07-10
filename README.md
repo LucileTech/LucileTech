@@ -7,7 +7,7 @@
 </h1>
 <div id="header" align="center">
   <div id="linkedin">
-    <a href="https://www.linkedin.com/in/lucile-tronczyk/">
+    <a href="https://www.linkedin.com/in/lucile-landry/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
