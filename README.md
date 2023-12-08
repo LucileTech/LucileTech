@@ -19,7 +19,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Full Stack :space_invader: Developer 
 
