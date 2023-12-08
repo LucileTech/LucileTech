@@ -27,7 +27,7 @@ I am a Full Stack :space_invader: Developer
 
 - :seedling: I did the Ironhack Web Development Bootcamp in Paris
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-tronczyk/)
+- 👉 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-tronczyk/)
 
 - :mushroom: Fun fact: I was a screenwriter and archives researcher for documentaries
 
