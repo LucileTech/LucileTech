@@ -23,10 +23,6 @@
 
 I am a Full Stack :space_invader: Developer 
 
-- :telescope: I can contribute to frontend and backend for building web applications
-
-- :seedling: I did the Ironhack Web Development Bootcamp in Paris
-
 - 👉 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-tronczyk/)
 
 - :mushroom: Fun fact: I was a screenwriter and archives researcher for documentaries
